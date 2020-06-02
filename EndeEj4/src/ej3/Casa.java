@@ -10,8 +10,7 @@ public class Casa {
      * y desinfecta todas las superficies
      * */    
     public void limpiarLaCasa() {
-        String mensajito ="Te hemos limpiado la casa, está desinfectada";
-        System.out.println(mensajito);
+        System.out.println("Te hemos limpiado la casa, está desinfectada");
     }    
 }
 
